@@ -9,12 +9,16 @@ public class StringConcept {
 		String profession = "Software Engineer";
 		boolean married = true;
 		
-		if (surName.equalsIgnoreCase("bendukuri")) {
+		if (surName.equalsIgnoreCase("BenDuKuRi")) {
 			System.out.println("surname is valid");
 		}
 		else {
 			System.out.println("surname not valid");
 		}
-	}
+		
+		
+		}
+	
+	
 
 }
